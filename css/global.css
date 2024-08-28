@@ -29,7 +29,7 @@ img {
   object-fit: cover;
 }
 body {
-  font-style: 1.6rem;
+  font-size: 1.6rem;
   font-family: "Merriweather Sans";
   height: 100%;
   display: flex;
